@@ -1,0 +1,9 @@
+h1 {text-align: center;}
+nav{font-weight:bold;width:100%;padding-bottom:2em;position:relative;}
+nav ul{list-style-type:none;font-size:1.2em;background-color: #DE9E90;}
+nav li {text-decoration:none;text-align:center;display:inline;padding:30px}
+nav a {color:#000000;text-decoration:none;}
+nav a:hover{color:#ffff;}
+.home {display:block;width:100%;}
+.about{width:100px;height:100px;margin-left:auto;margin-right:auto; display:block}
+.box {background-color:#0000FF;color:#ffff;width:200px;height:200px;font-size:2em;text-align:center;}
